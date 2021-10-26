@@ -15,7 +15,6 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayhankesicioglu)
 [![Mail Badge](https://img.shields.io/badge/ayhanmesaj@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ayhanmesaj@gmail.com)](mailto:ayhanmesaj@gmail.com)
 
-- 👋 @ayhankesicioglu
-- 👀 I’m interested in php, css, js, ai, e-commerce, adobe ps-id-ai etc...
-- 🌱 I’m currently learning ai
-- 💞️ I’m looking to collaborate on open source projects
+🌱 I’m interested in php, css, js, ai, e-commerce, adobe ps-id-ai etc...
+🌱 ayhanmesaj@gmail.com
+🌱 [ayhankesicioglu.com](http://ayhankesicioglu.com/)
