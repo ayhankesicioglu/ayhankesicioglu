@@ -16,7 +16,8 @@
 [![Mail Badge](https://img.shields.io/badge/ayhanmesaj@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ayhanmesaj@gmail.com)](mailto:ayhanmesaj@gmail.com)
 
 <ul>
-  <li>🌱 I’m interested in php, css, js, ai, e-commerce, adobe ps-id-ai etc...</li>
-  <li>🌱 ayhanmesaj@gmail.com</li>
-  <li>🌱 [ayhankesicioglu.com](http://ayhankesicioglu.com/)</li>
+  <li>🌱 I’m a php developer.
+  <li>🌱 I am developing e-commerce websites with Opencart.</li>
+  <li>🌱 I can use Adobe programs well (Photoshop, Illustrator, InDesign)</li>
+  <li>🌱 I'm blogging at <a href="http://ayhankesicioglu.com/">ayhankesicioglu.com</a></li>
 </ul>
