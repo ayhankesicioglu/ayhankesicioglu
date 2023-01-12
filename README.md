@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ayhankesicioglu&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ayhankesicioglu">
 
 # Hi, I'm Ayhan Kesicioğlu
 ###### PHP DEVELOPER
@@ -15,6 +15,8 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayhankesicioglu)
 [![Mail Badge](https://img.shields.io/badge/ayhanmesaj@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ayhanmesaj@gmail.com)](mailto:ayhanmesaj@gmail.com)
 
-🌱 I’m interested in php, css, js, ai, e-commerce, adobe ps-id-ai etc...
-🌱 ayhanmesaj@gmail.com
-🌱 [ayhankesicioglu.com](http://ayhankesicioglu.com/)
+<ul>
+  <li>🌱 I’m interested in php, css, js, ai, e-commerce, adobe ps-id-ai etc...</li>
+  <li>🌱 ayhanmesaj@gmail.com</li>
+  <li>🌱 [ayhankesicioglu.com](http://ayhankesicioglu.com/)</li>
+</ul>
