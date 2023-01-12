@@ -1,6 +1,6 @@
-![Ayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayhankesicioglu&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayhankesicioglu&show_icons=true)
+<a href="https://github.com/ayhankesicioglu/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ayhankesicioglu&show_icons=true" />
+</a>
 
 # Hi, I'm Ayhan Kesicioğlu
 ###### PHP DEVELOPER
