@@ -17,7 +17,7 @@
 
 <ul>
   <li>🌱 I’m a php developer.
-  <li>🌱 I am developing e-commerce websites with Opencart.</li>
+  <li>🌱 I'm developing e-commerce websites with Opencart.</li>
   <li>🌱 I can use Adobe programs well (Photoshop, Illustrator, InDesign)</li>
   <li>🌱 I'm blogging at <a href="http://ayhankesicioglu.com/">ayhankesicioglu.com</a></li>
 </ul>
