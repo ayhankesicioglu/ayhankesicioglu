@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ayhankesicioglu">
+![Ayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayhankesicioglu&show_icons=true)
 
 # Hi, I'm Ayhan Kesicioğlu
 ###### PHP DEVELOPER
